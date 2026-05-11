@@ -69,3 +69,6 @@ Press:
 
 ```text id="b9s7jf"
 Ctrl + S
+# Output Graph
+
+![Resume Screening Output](images/sample_output.png)
