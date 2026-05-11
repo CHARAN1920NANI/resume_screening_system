@@ -61,6 +61,7 @@ Candidate Ranking:
 1      Bob           Java Spring Boot MySQL Backend       0.000000
 3    David            HTML CSS JavaScript React           0.000000
 
+```
 # Output Graph
 
 ![Resume Screening Output](images/sample_output.png)
